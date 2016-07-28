@@ -1,5 +1,6 @@
 # Test
 Linux 多线程服务端
 
-
-bcv 安装，slic vedio segmention
+C++笔记
+python笔记
+多线程笔记，之后会上传（20160731前完成）。
